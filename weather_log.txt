@@ -1,1 +1,4 @@
 2025-06-07 08:19:51 | Birmingham | 77.18°F | broken clouds | Humidity: 95% | Wind: 6.91 m/s
+2025-06-07 08:29:29 | New Orleans | 83.08°F | mist | Humidity: 87% | Wind: 8.05 m/s
+2025-06-07 08:30:37 | Tuscaloosa | 78.73°F | few clouds | Humidity: 94% | Wind: 4.61 m/s
+2025-06-07 08:30:40 | Huntsville | 76.46°F | clear sky | Humidity: 89% | Wind: 5.75 m/s
